@@ -1,6 +1,7 @@
 # Unit Converter
 
-![Unit Converter Screenshot](screenshot.png) <!-- Replace with actual screenshot path -->
+![image](https://github.com/user-attachments/assets/49c75231-8d4b-4af9-8dca-7628ae2b9a46)
+
 
 A Streamlit-based web application for converting units across various categories. This app provides a simple, intuitive, and responsive interface for performing unit conversions quickly and accurately.
 
@@ -68,22 +69,12 @@ The **Unit Converter** is a user-friendly web application built with Streamlit t
 
 ---
 
-## Screenshots
-
-### Home Page
-![Home Page](screenshot1.png) <!-- Replace with actual screenshot path -->
-
-### Conversion Example
-![Conversion Example](screenshot2.png) <!-- Replace with actual screenshot path -->
-
----
-
 ## Contributing
 
 We welcome contributions to improve the Unit Converter! Here’s how you can help:
 
 ### Report Issues
-- If you find a bug or have a feature request, please open an issue on the [GitHub Issues](https://github.com/your-username/unit-converter/issues) page.
+- If you find a bug or have a feature request, please open an issue on the [GitHub Issues](https://github.com/Abdulrrehman2003/unit-converter/issues) page.
 
 ### Submit Pull Requests
 - Fork the repository.
